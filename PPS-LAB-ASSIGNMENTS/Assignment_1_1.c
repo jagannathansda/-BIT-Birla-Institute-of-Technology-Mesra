@@ -1,3 +1,10 @@
+/*
+1. Print the following number
+
+      10,20,500.50,A
+
+*/
+
 #include <stdio.h>
 int main()
 {
