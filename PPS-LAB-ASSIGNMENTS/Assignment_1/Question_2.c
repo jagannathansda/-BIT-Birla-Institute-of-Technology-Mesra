@@ -20,4 +20,4 @@ int main()
     printf("Division of %d and %d : %f \n",num1,num2,div);
     printf("Remainder of %d and %d : %f \n",num1,num2,rem);
     return 0;
-}
+}            
